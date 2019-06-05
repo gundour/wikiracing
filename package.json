@@ -1,0 +1,14 @@
+{
+  "name": "wikigame",
+  "version": "1.0.0",
+  "description": "wikigame is a webspider for wikipedia, it finds the shortest clickes between two random articles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Gundour <mohamedgundour@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "sax": "^1.2.4"
+  }
+}
