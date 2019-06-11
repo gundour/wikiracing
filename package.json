@@ -9,6 +9,8 @@
   "author": "Mohamed Gundour <mohamedgundour@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.11",
+    "promises-pipes": "0.0.4",
     "sax": "^1.2.4"
   }
 }
